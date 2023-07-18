@@ -48,4 +48,4 @@ PORT: The port number on which the server will run (default: 3000).
 ## License
    [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
    
-   This project is licensed under the GNU General Public License v3.0. See the [LICENSE](https://github.com/kuc/apology-gen/main/LICENSE) file for details.
+   This project is licensed under the GNU General Public License v3.0. See the [LICENSE]([https://github.com/kuc/apology-gen/main/LICENSE]) file for details.
