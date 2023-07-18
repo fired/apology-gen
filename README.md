@@ -16,7 +16,7 @@ Before you start, ensure you have Node.js and npm installed on your machine.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/username/apology-generator-app.git
+    git clone https://github.com/kuc/apology-gen.git
     ```
 2. Change the working directory:
     ```sh
