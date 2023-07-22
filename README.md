@@ -24,7 +24,7 @@ Before you start, ensure you have Node.js and npm installed on your machine.
     ```
 3. Install dependencies:
     ```sh
-    npm install
+    npm install axios cors express
     ```
 
 ## Usage
