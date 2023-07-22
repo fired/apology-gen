@@ -7,7 +7,6 @@ This is a simple Express.js server that uses the OpenAI's GPT-3.5-turbo API to g
 - [Installation](#installation)
 - [Usage](#usage)
 - [Environment Variables](#environment-variables)
-- [Contribute](#contribute)
 - [License](#license)
 
 ## Installation
