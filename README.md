@@ -26,6 +26,17 @@ Before you start, ensure you have Node.js and npm installed on your machine.
     ```sh
     npm install axios cors express
     ```
+4. Change OPENAI_KEY to your OpenAI API Key in app.js:
+   ```js
+   'Authorization': 'Bearer OPENAI_KEY',
+   ```
+5. Change API URL to your URL:
+    ```html
+    // Make API request to generate apology
+    fetch(`http://localhost:3000/apology?name=${name}&reason=${reason}`)
+    ```
+
+
 
 ## Usage
 
